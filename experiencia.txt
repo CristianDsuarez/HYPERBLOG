@@ -1,3 +1,5 @@
 hola estoy aprendiendo git con freddy 
 
 el es un profesor realmente bueno y me inspira
+
+mañana iremos a planear las siguientes cosas:
