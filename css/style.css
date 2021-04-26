@@ -13,6 +13,13 @@ body {
     border: 3px solid #e33;
     margin: 0 auto;
 }
-.container h1, .cabecera {
+.container h1 {
     font-size: 30px;
+}
+.cabecera {
+    background-color: burlywood;
+    font-size: 40px;
+    padding: 20px;
+    display:flex;
+    justify-content: flex-start;
 }
