@@ -13,6 +13,6 @@ body {
     border: 3px solid #e33;
     margin: 0 auto;
 }
-.container h1 {
+.container h1, .cabecera {
     font-size: 30px;
 }
