@@ -16,3 +16,10 @@ body {
 .container h1 {
     font-size: 30px;
 }
+.cabecera {
+    background-color: burlywood;
+    font-size: 40px;
+    padding: 20px;
+    display:flex;
+    justify-content: flex-start;
+}
